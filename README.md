@@ -1,2 +1,2 @@
-# 1st_hack
+# 1st_hack_win
 Made for our very first hackathon
